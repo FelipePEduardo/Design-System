@@ -73,6 +73,8 @@ export const ToastClose = styled(Toast.Close, {
   background: 'none',
 
   color: '$gray200',
+  cursor: 'pointer',
+  lineHeight: 0,
 })
 
 export const ToastViewport = styled(Toast.Viewport, {
