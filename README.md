@@ -21,6 +21,13 @@ Nesse módulo aprendemos conceitos como:
 - Addon de acessibilidade
 - Changesets
 
+## Atualizações
+
+Desafio da aula foi fazer dois novos components para o Design System:
+
+- Tooltip: ele é um balão de informações que será exibido quando você passar o mouse em cima de uma data.
+- Toast: Elemento que pode ser utilizado para mensagens de alerta na tela.
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://felipepeduardodev.netlify.app)
