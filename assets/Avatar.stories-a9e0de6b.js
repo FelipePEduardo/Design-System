@@ -1,0 +1,2 @@
+import{A as t}from"./index-37edd44a.js";import"./index-e2f1db08.js";import"./iframe-f79c9686.js";import"./index-6c55c47b.js";import"./jsx-runtime-5d6e6fec.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/FelipePEduardo.png",alt:"Felipe P Eduardo"},argTypes:{src:{control:{type:"text"}}}},e={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{e as Primary,c as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-a9e0de6b.js.map
